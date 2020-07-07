@@ -1,0 +1,39 @@
+.complete{
+    text-decoration: line-through;
+}
+.h1item1{
+    text-align: center;
+    color: white;
+}
+.h5item1{
+    text-align: center;
+    color: white;
+}
+
+.inputitem1{
+    text-align: center;
+    
+}
+.buttonitem1{
+    text-align: center;
+    padding: 10px;
+    margin: 0px 0px 0px 110px;
+   
+}
+.item2{
+    text-align: center; 
+    margin: 50px;
+    padding-top: 10px;
+    color: coral;
+}
+.item1{
+border: solid 5px white;
+    background-color: #4696e5;
+}
+.buttonapp{
+    width: 70px;
+    height: 30px;
+    background-color: blue;
+    border: solid 3px black;
+    
+}
